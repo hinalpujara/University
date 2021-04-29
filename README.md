@@ -13,10 +13,10 @@ Step2:
 Now to run the code first you would have to install the Xampp server and then move the Directory into the htdocs Directory of the Xampp Directory that will appear once the installation process is completed.then you can start th Xampp server.  
   
 Step3:  
-After starting the Xampp server go to your Browser and the open this url "http://localhost/University/Code/" and you will be directed to the Home page of the Website.  
+After starting the Xampp server go to your Browser and the open this url http://localhost/University/Code/ and you will be directed to the Home page of the Website.  
   
 Step4:
-To use login or Register you would have to create a Database named 'university' in phpmyadmin website "http://localhost/phpmyadmin/" and then create a table 'user_data' and in that 5 columns namly 'first_name', 'lst_name', 'username', 'email' and 'user_password'.  
+To use login or Register you would have to create a Database named 'university' in phpmyadmin website http://localhost/phpmyadmin/ and then create a table 'user_data' and in that 5 columns namly 'first_name', 'lst_name', 'username', 'email' and 'user_password'.  
   
 After following this steps you will be able to successfully run the given code.
 
